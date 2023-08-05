@@ -8,6 +8,11 @@ First we need to create a class Card that will represent a single card with a va
 
 Second class can be a class Deck that manage the deck of cards, shuffle it, deal cards between two players. 
 
-Player class can store information about the players, like name, the cards that they have.
+Promt a user to press any key to drawthe card, display the cards, compare them and anoynce the person who takes the cards. 
+
+Play again? Y or N. Keep track on rounds.
 
 Repeat the game until one of the player has all the cards or one of them run out of the cards. 
+
+Create the rules how the cards are stored.
+
