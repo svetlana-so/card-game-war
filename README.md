@@ -8,7 +8,7 @@ First we need to create a class Card that will represent a single card with a va
 
 Second class can be a class Deck that manage the deck of cards, shuffle it, deal cards between two players. 
 
-Promt a user to press any key to drawthe card, display the cards, compare them and anoynce the person who takes the cards. 
+Promt a user to press any key to draw the card, display the cards, compare them and anoynce the person who takes the cards. 
 
 Play again? Y or N. Keep track on rounds.
 
