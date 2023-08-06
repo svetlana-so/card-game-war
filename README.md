@@ -16,3 +16,5 @@ Repeat the game until one of the player has all the cards or one of them run out
 
 Create the rules how the cards are stored.
 
+
+
