@@ -101,7 +101,7 @@ def compare_cards(players_card,computers_card, user_stash, computer_stash):
 
      elif players_card.value == computers_card.value:
           print("It is a war! Place three more cards, face-down, on the table and after, flip over a fourth card so that it is face up. ")
-          input('Press: ')
+          input('Press enter to continue: ')
           if len(user_stash) > 4 and len(computer_stash) > 4:
                war_cards = draw_card_while_war(user_stash, computer_stash)
                u_l_card = war_cards[6]
